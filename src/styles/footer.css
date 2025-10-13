@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    background-color: hsl(0, 2%, 17%);
+    color: white;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 0 4rem 0;
+}
+.footer{
+    display: flex;
+    width: 70%;
+    gap: 5rem;
+}
+.tab{
+    font-family: sans-serif;
+    width: 25%;
+}
+.tab h1{
+    font-size: 1rem;
+}
+.tab p{
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: rgb(190, 190, 190);
+}
+.tab img{
+    width: 20rem;
+}
+.icons img{
+    width: 2rem;
+    height: 2rem;
+    margin: 4px;
+    
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+}
+.socials{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin: 1rem 0 1rem 0;
+    font-size: 1rem;
+    color: rgb(190, 190, 190);
+}
+.apps{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 2rem;
+}
+.apps button{
+    background-color: transparent;
+    border: none;
+}
+#images{
+    width: 8rem;
+}
