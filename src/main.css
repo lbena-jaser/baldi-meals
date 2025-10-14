@@ -85,6 +85,7 @@
     color: white;
     font-size: 1.3rem;
     margin-top: 1.3rem;
+    cursor: pointer;
 }
 .midde img{
     height: 5rem;
