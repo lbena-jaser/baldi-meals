@@ -1,17 +1,17 @@
 // src/components/footer.ts
 
 export function createFooter(): string {
-  return `
+  return /*html*/`
       <footer>
         <div class="footer">
             <div class="tab">
                 <div class="socials">
-                <img src="/public/Black_and_White_Modern_Streetwear_Sport_Logo-removebg-preview - Modifié.png" alt="">
+                <img src="/images/Black_and_White_Modern_Streetwear_Sport_Logo-removebg-preview - Modifié.png" alt="">
                 <p>follow us</p>
                 <div class="icons">
-                    <img src="/public/facebook.png" alt="">
-                    <img src="/public/instagram.png" alt="">
-                    <img src="/public/tiktok-circle.png" alt="">
+                    <img src="/images/facebook.png" alt="">
+                    <img src="/images/instagram.png" alt="">
+                    <img src="/images/tiktok-circle.png" alt="">
                 </div>
                 </div>
             </div>
@@ -49,8 +49,8 @@ export function createFooter(): string {
                 <div class="apps">
                     <h1>download our apps</h1>
                     <div>
-                        <button><img id="images" src="/public/GetItOnGooglePlay_Badge_Web_color_English.png" alt=""></button>
-                        <button><img id="images" src="/public/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt=""></button>
+                        <button><img id="images" src="/images/GetItOnGooglePlay_Badge_Web_color_English.png" alt=""></button>
+                        <button><img id="images" src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt=""></button>
                     </div>
                    
                </div>

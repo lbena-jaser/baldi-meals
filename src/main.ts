@@ -6,18 +6,21 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/`
   <div class="heroWrapper">
         <div class="hero">
           <div class="right">
-            <img src="/public/401de2bf-3bba-4785-8f76-a6a9a1ed2dab.png" alt="">
+            <img src="/images/401de2bf-3bba-4785-8f76-a6a9a1ed2dab.png" alt="">
           </div>
           <div class="midde">
             <h1 id="name">Baldi Meals</h1>
             <h2 id="hook">SAVE MONEY. SAVE TIME</h2>
             <h2 id="hook">.MAKE EATING WELL EASY.</h2>
             <h2 id="content">MEAL PREP RECIPES | FREEZER FRIENDLY SNACKS | DESSERTS</h2>
-            <button>regester now</button>
-            <img src="/public/Black_and_White_Modern_Streetwear_Sport_Logo-removebg-preview - Modifié.png" alt="">
+            <a href="/join">
+            <button >regester now</button>
+            </a>
+            
+            <img src="/images/Black_and_White_Modern_Streetwear_Sport_Logo-removebg-preview - Modifié.png" alt="">
           </div>
           <div class="left">
-            <img src="/public/5bf5aa17-c65b-415e-87cd-36bfdbc99d9b.png" alt="">
+            <img src="/images/5bf5aa17-c65b-415e-87cd-36bfdbc99d9b.png" alt="">
           </div>
         </div>
     </div>
@@ -28,7 +31,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/`
         <div class="tabs">
           <div id="tab1">
 
-            <img src="/public/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
+            <img src="/images/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
             <span>01</span>
             <h3>Choose Your Meals</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, illo</p>
@@ -39,12 +42,12 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/`
             <span>02</span>
             <h3>We Get Cooking</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, illo.</p>
-            <img src="/public/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
+            <img src="/images/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
 
           </div>
           <div id="tab3">
 
-            <img src="/public/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
+            <img src="/images/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
             <span>03</span>
             <h3>Heat, Eat & Enjoy</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, illo</p>
@@ -55,7 +58,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/`
             <span>04</span>
             <h3>Feel the Benefits</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto, illo</p>
-            <img src="/public/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
+            <img src="/images/274e151c-4110-4f30-99a9-c59d61141fa3.png" alt="">
 
           </div>
         </div>
@@ -66,15 +69,15 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/`
         <h1>explore our recepies</h1>
         <div class="menuCards">
           <div class="card">
-            <img src="/public/Savor the flavors of this Garlic Veggie Chicken….jpg" alt="">
+            <img src="/images/Savor the flavors of this Garlic Veggie Chicken….jpg" alt="">
             <h1>zaaket azer bilham</h1>
           </div>
           <div class="card">
-            <img src="/public/Savor the flavors of this Garlic Veggie Chicken….jpg" alt="">
+            <img src="/images/Savor the flavors of this Garlic Veggie Chicken….jpg" alt="">
             <h1>magarouna netna</h1>
           </div>
           <div class="card">
-            <img src="/public/Savor the flavors of this Garlic Veggie Chicken….jpg" alt="">
+            <img src="/images/Savor the flavors of this Garlic Veggie Chicken….jpg" alt="">
             <h1>azer siks</h1>
           </div>
         </div>
