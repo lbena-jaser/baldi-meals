@@ -2,7 +2,7 @@ import './styles/footer.css';
 import { renderFooter } from './components/footer';
 import './main.css'
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
+document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/`
   <div class="heroWrapper">
         <div class="hero">
           <div class="right">
